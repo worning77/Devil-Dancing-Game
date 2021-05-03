@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "baseUrl": "C:/Users/worni/AppData/Local/Temp/201c-07ed-2f12-2a8a/1340578083e40d7a494f99be0ef661427bfdfd",
+    "checkJs": true,
+    "esModuleInterop": true,
+    "lib": [
+      "ES2019"
+    ],
+    "outDir": "C:/Users/worni/AppData/Local/Temp/201c-07ed-2f12-2a8a/1340578083e40d7a494f99be0ef661427bfdfd/out-dir",
+    "paths": {
+      "*": [
+        "skylight-typedefs/*",
+        "skylight-node_modules/*"
+      ]
+    },
+    "typeRoots": [
+      "C:/Users/worni/AppData/Local/Temp/201c-07ed-2f12-2a8a/1340578083e40d7a494f99be0ef661427bfdfd/skylight-node_modules/@types"
+    ],
+    "types": [
+      "node"
+    ]
+  },
+  "include": [
+    "./**/*.js",
+    "./**/*.ts"
+  ]
+}
